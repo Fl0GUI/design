@@ -13,3 +13,10 @@ Paul Chadeisson's work is fantastic, and I just like space. There's something ab
 https://vb-audio.com/Voicemeeter/banana.htm
 
 The VB-audio voicemeter suite of software is pretty comparable to what I want to create. A UI that is set in stone and serves its purpose well. though these applications can be a bit confusing at times.
+
+![](img/firetruck.jpg) ![](img/planetow.jpg)
+
+For some reason I like these highly specialized airport vehicles. I can't tell you why. I'm otherwise not into cars.
+
+
+
